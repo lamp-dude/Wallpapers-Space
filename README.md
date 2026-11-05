@@ -2,10 +2,12 @@
 
 A procedural gas giant project built in Unity3D, designed for my desktop wallpapers.
 
-<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/9f930e6a-0186-460f-abb3-69bfe9295b49" />
-<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/ab415eed-d7f3-4777-90dc-bf9249bc342d" />
-<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/e88556f4-2bbc-4220-bcb1-eff3c1b0a624" />
-<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/9072d6f7-6718-4888-9ea3-70befaaa54dc" />
+<img width="187" height="112" alt="image" src="https://github.com/user-attachments/assets/9f930e6a-0186-460f-abb3-69bfe9295b49" />
+<img width="187" height="112" alt="image" src="https://github.com/user-attachments/assets/ab415eed-d7f3-4777-90dc-bf9249bc342d" />
+<img width="187" height="112" alt="image" src="https://github.com/user-attachments/assets/e88556f4-2bbc-4220-bcb1-eff3c1b0a624" />
+<img width="187" height="112" alt="image" src="https://github.com/user-attachments/assets/9072d6f7-6718-4888-9ea3-70befaaa54dc" />
+<img width="187" height="112" alt="image" src="https://github.com/user-attachments/assets/2fa366b1-3697-484b-8881-ced839a5cb1a" />
+
 
 
 
